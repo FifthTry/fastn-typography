@@ -1,3 +1,11 @@
+-- import: fifthtry.github.io/fastn-typography/data as data
+-- import: fifthtry.github.io/type-doc as tf
+-- import: fifthtry.github.io/manrope-font/assets as manrope-assets
+-- import: fifthtry.github.io/manrope-font
+
+
+
+
 -- ftd.type heading-hero-mobile:
 line-height.px: 64
 size.px: 48
@@ -403,4 +411,27 @@ mobile: $link-mobile
 
 
 
+-- ftd.type-data manrope-type:
+heading-hero: $heading-hero
+heading-large: $heading-large
+heading-medium: $heading-medium
+heading-small: $heading-small
+heading-tiny: $heading-tiny
+copy-large: $copy-large
+copy-regular: $copy-regular
+copy-small: $copy-small
+fine-print: $fine-print
+blockquote: $blockquote
+source-code: $source-code
+label-large: $label-large
+label-small: $label-small
+button-large: $button-large
+button-medium: $button-medium
+button-small: $button-small
+link: $link
 
+
+
+
+-- tf.display-type:
+types: $manrope-type
