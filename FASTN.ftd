@@ -4,5 +4,3 @@
 download-base-url: https://raw.githubusercontent.com/fifthtry/fastn-typography/main
 
 -- fastn.dependency: fifthtry.github.io/manrope-font
-
--- fastn.dependency: fifthtry.github.io/type-doc
