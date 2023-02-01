@@ -2,3 +2,5 @@
 
 -- fpm.package: fifthtry.github.io/fastn-typography
 download-base-url: https://raw.githubusercontent.com/fifthtry/fastn-typography/main
+
+-- fpm.dependency: fifthtry.github.io/manrope-font
