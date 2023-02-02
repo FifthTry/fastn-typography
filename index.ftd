@@ -444,7 +444,8 @@ ftd.type-data types:
 -- ftd.column:
 width: fill-container
 background.solid: $inherited.colors.background.base
-padding-horizontal.px: 24
+padding-vertical.px: 48
+padding-horizontal.px: 100
 
 -- ftd.text: Typography Documentation
 role: $display-type.types.heading-large
