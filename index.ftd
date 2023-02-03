@@ -411,7 +411,7 @@ mobile: $link-mobile
 
 
 
--- ftd.type-data manrope-type:
+-- ftd.type-data types:
 heading-hero: $heading-hero
 heading-large: $heading-large
 heading-medium: $heading-medium
@@ -434,7 +434,7 @@ link: $link
 
 
 -- display-type:
-types: $manrope-type
+types: $types
 
 
 
