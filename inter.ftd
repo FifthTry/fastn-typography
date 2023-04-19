@@ -20,23 +20,15 @@ weight: 700
 
 
 
--- ftd.type heading-large-mobile:
-line-height.px: 54
-size.px: 36
-letter-spacing.px: 0
-weight: 700
-font-family: $inter-assets.fonts.Inter
 
 -- ftd.type heading-large-desktop:
-line-height.px: 65
-size.px: 50
-letter-spacing.px: 0
+line-height.em: 1.15
+size.em: 2.25
 font-family: $inter-assets.fonts.Inter
 weight: 700
 
 -- ftd.responsive-type heading-large:
 desktop: $heading-large-desktop
-mobile: $heading-large-mobile
 
 
 
