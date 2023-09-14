@@ -15,8 +15,8 @@ weight: 700
 font-family: $manrope-assets.fonts.Manrope
 
 -- ftd.type heading-hero-desktop:
-line-height.px: 104
-size.px: 80
+line-height.px: 84
+size.px: 56
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 700
@@ -37,8 +37,8 @@ weight: 700
 font-family: $manrope-assets.fonts.Manrope
 
 -- ftd.type heading-large-desktop:
-line-height.px: 65
-size.px: 50
+line-height.px: 60
+size.px: 40
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 700
@@ -59,8 +59,8 @@ weight: 700
 font-family: $manrope-assets.fonts.Manrope
 
 -- ftd.type heading-medium-desktop:
-line-height.px: 57
-size.px: 38
+line-height.px: 48
+size.px: 32
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 700
@@ -80,7 +80,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type heading-small-desktop:
-line-height.px: 31
+line-height.px: 36
 size.px: 24
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -100,8 +100,8 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type heading-tiny-desktop:
-line-height.px: 26
-size.px: 20
+line-height.px: 27
+size.px: 18
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 700
@@ -121,8 +121,8 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type copy-large-desktop:
-line-height.px: 34
-size.px: 22
+line-height.px: 28
+size.px: 18
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 400
@@ -146,8 +146,8 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type copy-regular-desktop:
-line-height.px: 30
-size.px: 18
+line-height.px: 28
+size.px: 16
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
 weight: 400
@@ -169,7 +169,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type copy-small-desktop:
-line-height.px: 24
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -198,7 +198,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type label-large-desktop:
-line-height.px: 19
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -223,7 +223,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type label-small-desktop:
-line-height.px: 16
+line-height.px: 18
 size.px: 12
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -326,7 +326,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type button-large-desktop:
-line-height.px: 24
+line-height.px: 27
 size.px: 18
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -346,7 +346,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type button-medium-desktop:
-line-height.px: 21
+line-height.px: 24
 size.px: 16
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -377,7 +377,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type button-small-desktop:
-line-height.px: 19
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -400,7 +400,7 @@ font-family: $manrope-assets.fonts.Manrope
 
 
 -- ftd.type link-desktop:
-line-height.px: 19
+line-height.px: 21
 size.px: 14
 letter-spacing.px: 0
 font-family: $manrope-assets.fonts.Manrope
@@ -457,50 +457,50 @@ padding-vertical.px: 24
 
 
 -- heading-box: \$inherited.types.heading-hero
-line-height: 104
-size: 80
+line-height: 84
+size: 56
 weight: 700
 headingtitle: $display-type.types.heading-hero
 
 -- heading-box: \$inherited.types.heading-large
-line-height: 65
-size: 50
+line-height: 60
+size: 40
 weight: 700
 headingtitle: $display-type.types.heading-large
 
 -- heading-box: \$inherited.types.heading-medium
-line-height: 57
-size: 38
+line-height: 48
+size: 32
 weight: 700
 headingtitle: $display-type.types.heading-medium
 
 
 -- heading-box: \$inherited.types.heading-small
-line-height: 31
+line-height: 36
 size: 24
 weight: 700
 headingtitle: $display-type.types.heading-small
 
 -- heading-box: \$inherited.types.heading-tiny
-line-height: 26
-size: 20
+line-height: 27
+size: 18
 weight: 700
 headingtitle: $display-type.types.heading-tiny
 
 -- heading-box: \$inherited.types.copy-large
-line-height: 34
-size: 22
+line-height: 28
+size: 18
 weight: 400
 headingtitle: $display-type.types.copy-large
 
 -- heading-box: \$inherited.types.copy-regular
-line-height: 30
-size: 18
+line-height: 28
+size: 16
 weight: 400
 headingtitle: $display-type.types.copy-regular
 
 -- heading-box: \$inherited.types.copy-small
-line-height: 24
+line-height: 21
 size: 14
 weight: 400
 headingtitle: $display-type.types.copy-small
@@ -524,37 +524,37 @@ weight: 400
 headingtitle: $display-type.types.source-code
 
 -- heading-box: \$inherited.types.label-large
-line-height: 19
+line-height: 21
 size: 14
 weight: 400
 headingtitle: $display-type.types.label-large
 
 -- heading-box: \$inherited.types.label-small
-line-height: 16
+line-height: 18
 size: 12
 weight: 400
 headingtitle: $display-type.types.label-small
 
 -- heading-box: \$inherited.types.button-large
-line-height: 24
+line-height: 27
 size: 18
 weight: 700
 headingtitle: $display-type.types.button-large
 
 -- heading-box: \$inherited.types.button-medium
-line-height: 21
+line-height: 24
 size: 16
 weight: 700
 headingtitle: $display-type.types.button-medium
 
 -- heading-box: \$inherited.types.button-small
-line-height: 19
+line-height: 21
 size: 14
 weight: 700
 headingtitle: $display-type.types.button-small
 
 -- heading-box: \$inherited.types.link
-line-height: 19
+line-height: 21
 size: 14
 weight: 700
 headingtitle: $display-type.types.link
