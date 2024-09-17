@@ -12,7 +12,7 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "39A253CCE63217591B11926BDA0D450E8477F5EA729236E310377774C9A2881A",
+      "checksum": "14FC5458256F9DADB1569ED75B5A0703ABDA0B253A9C44303C91DFF86F0563B7",
       "size": 15907
     },
     "inter.ftd": {
@@ -21,6 +21,6 @@
       "size": 14450
     }
   },
-  "zip_url": "https://github.com/FifthTry/fastn-typography/archive/43ba8f5bde84226c894683bc80fcc8f9333399bf.zip",
-  "checksum": "A48560D946C854EF381FB76BD95A5F78C194AC18648508005E84CDF0703CC083"
+  "zip_url": "https://github.com/FifthTry/fastn-typography/archive/c965a79686abc0f6c4754aabb485c1a73389eaf9.zip",
+  "checksum": "604C963B8469CA12CEDD8741A08CF50ED6B334312474DA9AD6F58186E7454257"
 }
